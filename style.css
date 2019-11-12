@@ -1,0 +1,16 @@
+body {background: rgb(210,180,140);}
+
+#one {float: right;}
+
+#two {float: left;}
+
+#ramka {
+border-style: groove;
+border-width: thin;
+border-color: black;
+border-left-width: 20px;
+padding: 10px 70px 10px 2px;
+color: white; }
+
+#bialy {
+color: white;}
